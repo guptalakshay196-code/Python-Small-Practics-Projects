@@ -1,5 +1,4 @@
 # Python-Small-Practics-Projects
-# Python Small Practical Projects
 
 A collection of small and beginner-friendly Python projects created to practice and strengthen fundamental programming concepts. These projects focus on problem-solving, logic building, user input, data handling, loops, conditional statements, functions, and basic Python programming.
 
